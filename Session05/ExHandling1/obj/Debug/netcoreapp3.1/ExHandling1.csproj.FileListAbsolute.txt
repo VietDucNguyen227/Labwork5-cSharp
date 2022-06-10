@@ -1,0 +1,14 @@
+D:\Visual Studio\cSharp\Session05\ExHandling1\bin\Debug\netcoreapp3.1\ExHandling1.exe
+D:\Visual Studio\cSharp\Session05\ExHandling1\bin\Debug\netcoreapp3.1\ExHandling1.deps.json
+D:\Visual Studio\cSharp\Session05\ExHandling1\bin\Debug\netcoreapp3.1\ExHandling1.runtimeconfig.json
+D:\Visual Studio\cSharp\Session05\ExHandling1\bin\Debug\netcoreapp3.1\ExHandling1.runtimeconfig.dev.json
+D:\Visual Studio\cSharp\Session05\ExHandling1\bin\Debug\netcoreapp3.1\ExHandling1.dll
+D:\Visual Studio\cSharp\Session05\ExHandling1\bin\Debug\netcoreapp3.1\ExHandling1.pdb
+D:\Visual Studio\cSharp\Session05\ExHandling1\obj\Debug\netcoreapp3.1\ExHandling1.csproj.AssemblyReference.cache
+D:\Visual Studio\cSharp\Session05\ExHandling1\obj\Debug\netcoreapp3.1\ExHandling1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\cSharp\Session05\ExHandling1\obj\Debug\netcoreapp3.1\ExHandling1.AssemblyInfoInputs.cache
+D:\Visual Studio\cSharp\Session05\ExHandling1\obj\Debug\netcoreapp3.1\ExHandling1.AssemblyInfo.cs
+D:\Visual Studio\cSharp\Session05\ExHandling1\obj\Debug\netcoreapp3.1\ExHandling1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\cSharp\Session05\ExHandling1\obj\Debug\netcoreapp3.1\ExHandling1.dll
+D:\Visual Studio\cSharp\Session05\ExHandling1\obj\Debug\netcoreapp3.1\ExHandling1.pdb
+D:\Visual Studio\cSharp\Session05\ExHandling1\obj\Debug\netcoreapp3.1\ExHandling1.genruntimeconfig.cache
